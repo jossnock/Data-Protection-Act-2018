@@ -1,3 +1,16 @@
 body{
-    background-color: #ffaa00;
+    background-color: #ffffff;
+    margin-top: 32px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Times New Roman', Times, serif;
+}
+p,ol,ul,li{
+    font-size: 97%
+}
+p{
+    text-align:justify
 }
