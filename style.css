@@ -12,5 +12,8 @@ p,ol,ul,li{
     font-size: 97%
 }
 p{
-    text-align:justify
+    text-align:justify;
+}
+li{
+    line-height: 170%;
 }
