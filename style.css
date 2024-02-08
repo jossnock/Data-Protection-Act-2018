@@ -5,15 +5,37 @@ body{
     margin-right: 10%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 h1,h2,h3,h4,h5,h6{
     font-family: 'Times New Roman', Times, serif;
 }
+
 p,ol,ul,li{
     font-size: 97%
 }
+
 p{
     text-align:justify;
 }
+
 li{
     line-height: 170%;
+}
+
+#quiz-container {
+    text-align: center;
+}
+
+.question {
+    margin-bottom: 10px;
+}
+
+.options {
+    list-style-type: none;
+    padding: 0;
+}
+
+.options label {
+    display: block;
+    margin-bottom: 10px;
 }
