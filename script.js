@@ -37,6 +37,11 @@ function initVars(){
             question: "Which of the following rights do users have reguarding their personal data?",
             options: ["Accessing the data", "Having the data erased", "Objecting to how their data is processed", "All of the above"],
             correctAnswer: "All of the above"
+        },
+        {
+            question: "Which of the following powers does the ICO have, in reguard to enforcing the data protection principles",
+            options: ["Warnings", "Penalty notices", "Assessment notices", "All of the above"],
+            correctAnswer: "All of the above"
         }
     ];
     
