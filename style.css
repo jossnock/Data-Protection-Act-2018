@@ -1,29 +1,48 @@
 body{
     background-color: #ffffff;
-    margin-top: 32px;
+    /* margin-top: 32px; */
     margin-left: 10%;
     margin-right: 10%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
+
+@media (max-width: 1000px) {
+    body {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+
+
+
+
+
+
+
 h1,h2,h3,h4,h5,h6{
     font-family: 'Times New Roman', Times, serif;
 }
 
+h1{
+    padding-top: 16px;
+}
+
 p,ol,ul,li{
-    font-size: 97%
+    font-size: 97%;
 }
 
 p{
     text-align:justify;
 }
 
-li{
-    line-height: 170%;
+blockquote{
+    text-align:justify;
 }
 
-#quiz-container {
-    text-align: center;
+li{
+    line-height: 170%;
 }
 
 .question {
