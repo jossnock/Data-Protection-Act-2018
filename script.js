@@ -20,8 +20,8 @@ function initVars(){
         },
         {
             question: "For ordinary circumstances, how long should it take for an organisation to provide requested information?",
-            options: ["1 week", "3 weeks", "2 months", "6 months"],
-            correctAnswer: "2 months"
+            options: ["1 week", "3 weeks", "1 month", "2 months"],
+            correctAnswer: "1 month"
         },
         {
             question: "When did the act recieve royal assent",
