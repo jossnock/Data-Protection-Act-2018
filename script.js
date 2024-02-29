@@ -15,7 +15,7 @@ function initVars(){
         },
         {
             question: "Which of the following is not covered by the DPA (2018)?",
-            options: ["Biometrics", "Political Opinions", "Occupation", "Religious beliefs"],
+            options: ["Biometrics", "Political opinions", "Occupation", "Religious beliefs"],
             correctAnswer: "Occupation"
         },
         {
